@@ -102,7 +102,7 @@ Follow these instructions to set up and run the project locally.
 Start the development server with:
 ```sh
 npm run dev
-
+```
 
 Open http://localhost:3000 in your browser to see the application.
 
@@ -139,11 +139,7 @@ src/
     ├── budget.ts
     ├── category_total.ts
     └── transaction.ts
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-IGNORE_WHEN_COPYING_END
+
 ☁️ Deployment
 
 The easiest way to deploy this Next.js app is to use the Vercel Platform.
